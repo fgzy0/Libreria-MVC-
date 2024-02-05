@@ -1,0 +1,53 @@
+<?
+return [
+    'all' => [
+        'home',
+        'main',
+        'bookID',
+        'genreID',
+        'login',
+        'register',
+        'logout',
+        'absolute'
+    ],
+    'authorize' => [
+        'profile',
+        'persondata',
+        'orders',
+        'updateavatar',
+        'updatephoneusername',
+        'updatefio',
+        'updateemail',
+        'updatepassword'
+    ],
+    'admin' => [
+        'datausers',
+        'dashboard',
+        'categories',
+        'genres',
+        'products',
+        'reductuser',
+        'reductuserID',
+        'deleteuser',
+        'deleteuserID',
+        'addproduct',
+        'addnewproduct',
+        'reductproductID',
+        'reductproduct',
+        'deleteproductID',
+        'deleteproduct',
+        'addcategory',
+        'addcategories',
+        'reductcategoryID',
+        'reductcategory',
+        'deletecategoryID',
+        'deletecategory',
+        'addgenre',
+        'addgenres',
+        'reductgenreID',
+        'reductgenre',
+        'deletegenreID',
+        'deletegenre'
+    ],
+];
+?>
